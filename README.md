@@ -7,22 +7,17 @@ _____________________________________________________________________
 🧑‍💼Actualmente estoy estudiando en la Universidad Autónoma Benito Juárez de Oaxaca y en mi trabajo actual es programar a distintos clientes de distintos países en la plataforma San Andreas MultiPlayer.
 _____________________________________________________________________
 # Lenguajes que estoy aprendiendo
-- C++
-
-<img src="https://cdn-icons-png.flaticon.com/128/919/919841.png"/> 
+- C++ <img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" width="65" height="65"/> 
 
 - Java Script (Actualmente  me lo encuentro aprendiendo gracias a ser autodidacta y a explicaciones de nuestro catedrático) 
-[jorrge.cruz@gmail.com ]()
-
-<img src="https://cdn-icons-png.flaticon.com/128/541/541509.png"/> 
+[jorrge.cruz@gmail.com ]() 
+<img src="https://cdn-icons-png.flaticon.com/128/541/541509.png" width="65" height="65"/> 
 
 
 - Lua
 
-<img src="https://cdn-icons.flaticon.com/png/128/5105/premium/5105499.png?token=exp=1649217762~hmac=770f0acc97272c90019d404eb8ae1141" /> 
-- C#
-
- <img src="https://cdn-icons-png.flaticon.com/128/381/381704.png"/> 
+<img src="https://cdn-icons.flaticon.com/png/128/5105/premium/5105499.png?token=exp=1649217762~hmac=770f0acc97272c90019d404eb8ae1141" width="65" height="65"/> 
+- C# <img src="https://cdn-icons-png.flaticon.com/128/381/381704.png" width="65" height="65"/> 
 #### 
 _____________________________________________________________________
 
@@ -53,9 +48,9 @@ stock OBTENER_IDT(playerid,listitem)
 }
 ```
 ______________________________________
-# Algunas otras cosas que sé
+# Contáctame
 
-También se manejar un poco de bases de datos mysql y sql lite.
 
-Contacto: 🖥️ [bonermrcdi@gmail.com ]()<img src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1649217953~hmac=797a3868a6a96e25568d8f8a21fe58cb"/> 
+
+Contacto: 🖥️ [bonermrcdi@gmail.com ]()<img src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1649217953~hmac=797a3868a6a96e25568d8f8a21fe58cb" width="65" height="65"/> 
 
