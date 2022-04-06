@@ -18,7 +18,6 @@ _____________________________________________________________________
 
 <img src="https://cdn-icons.flaticon.com/png/128/5105/premium/5105499.png?token=exp=1649217762~hmac=770f0acc97272c90019d404eb8ae1141" width="65" height="65"/> 
 - C# <img src="https://cdn-icons-png.flaticon.com/128/381/381704.png" width="65" height="65"/> 
-#### 
 _____________________________________________________________________
 
 🎯 Mis editores en uso actualmente:
