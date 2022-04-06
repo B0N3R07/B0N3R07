@@ -7,9 +7,8 @@ _____________________________________________________________________
 _____________________________________________________________________
 # Lenguajes que estoy aprendiendo
 - C++
-<p align="right"> 
+
 <img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" alt="mariadb" width="65" height="65"/> 
-</p>
 
 - Java Script (Actualmente  me lo encuentro aprendiendo gracias a ser autodidacta y a explicaciones de nuestro catedrático) 
 [jorrge.cruz@gmail.com ]()
