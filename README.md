@@ -9,16 +9,20 @@ _____________________________________________________________________
 # Lenguajes que estoy aprendiendo
 - C++
 
-<img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" alt="mariadb" width="65" height="65"/> 
+<img src="https://cdn-icons-png.flaticon.com/128/919/919841.png"/> 
 
 - Java Script (Actualmente  me lo encuentro aprendiendo gracias a ser autodidacta y a explicaciones de nuestro catedrático) 
 [jorrge.cruz@gmail.com ]()
-<p align="left"> 
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> 
-</p>
+
+<img src="https://cdn-icons-png.flaticon.com/128/541/541509.png"/> 
+
 
 - Lua
+
+<img src="https://cdn-icons.flaticon.com/png/128/5098/premium/5098088.png" /> 
 - C#
+
+ <img src="https://cdn-icons-png.flaticon.com/128/381/381704.png"/> 
 #### 
 _____________________________________________________________________
 
