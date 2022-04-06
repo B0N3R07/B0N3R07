@@ -19,7 +19,7 @@ _____________________________________________________________________
 
 - Lua
 
-<img src="https://cdn-icons.flaticon.com/png/128/5098/premium/5098088.png" /> 
+<img src="https://cdn-icons.flaticon.com/png/128/5105/premium/5105499.png?token=exp=1649217762~hmac=770f0acc97272c90019d404eb8ae1141" /> 
 - C#
 
  <img src="https://cdn-icons-png.flaticon.com/128/381/381704.png"/> 
@@ -52,3 +52,10 @@ stock OBTENER_IDT(playerid,listitem)
     return slot;
 }
 ```
+______________________________________
+# Algunas otras cosas que sé
+
+También se manejar un poco de bases de datos mysql y sql lite.
+
+Contacto: 🖥️ [bonermrcdi@gmail.com ]()<img src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1649217953~hmac=797a3868a6a96e25568d8f8a21fe58cb"/> 
+
