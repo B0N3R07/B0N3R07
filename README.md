@@ -7,7 +7,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 # Lenguajes que estoy aprendiendo
 - C++
-<p align="left"> 
+<p align="right"> 
 <img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" alt="mariadb" width="65" height="65"/> 
 </p>
 
