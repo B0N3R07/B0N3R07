@@ -1,5 +1,7 @@
 # ¡Hola!
 
+
+<img src="https://user-images.githubusercontent.com/97124495/161889024-1ec91047-c671-4af4-8a02-9b0922344813.gif" alt="mart" width="100" height="100"/> 
 _____________________________________________________________________
 🖥️ Soy estudiante de la Universidad Autónoma Benito Juárez de Oaxaca, me gusta mucho los distintos lenguajes de programación, actualmente trabajo como programador de un modo multijugador de la plataforma SAMP que lleva como base el lenguaje de C++.
 _____________________________________________________________________
