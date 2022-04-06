@@ -8,7 +8,7 @@ _____________________________________________________________________
 # Lenguajes que estoy aprendiendo
 - C++
 <p align="left"> 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> 
  </p>
 - Java Script (Actualmente  me lo encuentro aprendiendo gracias a ser autodidacta y a explicaciones de nuestro catedrático) 
 [jorrge.cruz@gmail.com ]()
